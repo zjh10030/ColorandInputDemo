@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color and Input Demo</string>
+    <string name="nothing"> </string>
+    <string name="submit_button_label">Submit</string>
+</resources>
